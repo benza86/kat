@@ -1,0 +1,84 @@
+[
+  {
+     "title":"مشاهدة الحلقات",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+	 {
+        "title":"مشاهدة الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UC2qrqZqFoMc24SmzP2Wg1Xg",
+          "channel"
+
+        ]
+     },
+
+	        {
+        "title":"سرفر2",
+        "provider":"youtube",
+        "arguments":[
+          "UCVryRC3a_TZ4uBO846HjQjg",
+          "channel"
+
+        ]
+      },
+	        {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC-rpg9WyN7JC98JwtlQBLmw",
+          "channel"
+
+        ]
+      },
+      {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UC-rpg9WyN7JC98JwtlQBLmw",
+          "channel"
+
+        ]
+      },
+	    {
+        "title":" ملخصات مترجمة",
+        "provider":"youtube",
+        "arguments":[
+          "UCNnqAtgF-wb0zAjUZiQ_wUA",
+          "channel"
+
+        ]
+      },
+	  	  	   {
+        "title":"ملخص الحلقة القادمة : خربوش",
+        "provider":"youtube",
+        "arguments":[
+          "UCv_zCUvMwAjzn7CLxyn1RfA",
+          "channel"
+
+        ]
+      }
+   
+  ]
+  }
+  ,
+
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"اخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.aladinapps.appm.katousetrmad.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
