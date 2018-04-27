@@ -68,6 +68,15 @@
 
         ]
      },
+	          {
+        "title":"حتي الحلقة 53",
+        "provider":"youtube",
+        "arguments":[
+          "UC_tJ-hjCxyddOgYoaOBQk2w",
+          "channel"
+
+        ]
+      },
 
 	        {
         "title":"مدبلج",
@@ -96,15 +105,7 @@
 
         ]
       },
-      {
-        "title":"مقتطفات",
-        "provider":"youtube",
-        "arguments":[
-          "UCNnqAtgF-wb0zAjUZiQ_wUA",
-          "channel"
 
-        ]
-      },
 	    {
         "title":" ملخصات مترجمة",
         "provider":"youtube",
