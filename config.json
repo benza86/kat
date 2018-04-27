@@ -10,21 +10,30 @@
         "title":"مشاهدة الحلقات",
         "provider":"youtube",
         "arguments":[
-          "UC-P9zv_7cmhcheOPproePzA",
+          "UCMnjmBDqm380SnLWbXpXJrQ",
           "channel"
 
         ]
      },
 
 	        {
-        "title":"2 مشاهدة الحلقات",
+        "title":"مدبلج",
+        "provider":"youtube",
+        "arguments":[
+          "UCRy2QwcTVX31DYeWZA-n_DA",
+          "channel"
+
+        ]
+      },
+	     {
+        "title":"ورثة و سلايف",
         "provider":"youtube",
         "arguments":[
           "UC-P9zv_7cmhcheOPproePzA",
           "channel"
 
         ]
-      },
+     },
 	        {
         "title":"ملخصات",
         "provider":"youtube",
