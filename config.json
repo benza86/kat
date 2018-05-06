@@ -240,6 +240,12 @@
     "submenu":"الحلقات من هنا",
     "iap":false,
     "tabs":[
+	      	      {
+        "title":"ملخص 67",
+        "provider":"webview",
+        "arguments":[
+"http://shevahd.fr/katous/kat67ك.html"
+	]   },
 	  	      {
         "title":"66 كاملة",
         "provider":"webview",
