@@ -234,7 +234,29 @@
 		
   
   ,
-	
+	 {
+    "title":"مشاهدة يوتيوب",
+    "drawable":"",
+    "submenu":"الحلقات من هنا",
+    "iap":false,
+    "tabs":[
+	  	      {
+        "title":"66 كاملة",
+        "provider":"webview",
+        "arguments":[
+"http://shevahd.fr/katous/kat66.html"
+	]   },
+	      {
+        "title":"65 كاملة",
+        "provider":"webview",
+        "arguments":[
+"http://shevahd.fr/katous/kat65.html"
+	]  }  
+
+    ]
+
+  }
+	,
 
   {
     "title":"عن التطبيق",
