@@ -281,19 +281,19 @@
     "iap":false,
     "tabs":[
 	      	      {
-        "title":"ملخص 67",
+        "title":"68",
         "provider":"webview",
         "arguments":[
 "http://shevahd.fr/katous/kat67m.html"
 	]   },
 	  	      {
-        "title":"66 كاملة",
+        "title":"67",
         "provider":"webview",
         "arguments":[
 "http://shevahd.fr/katous/kat66.html"
 	]   },
 	      {
-        "title":"65 كاملة",
+        "title":"66",
         "provider":"webview",
         "arguments":[
 "http://shevahd.fr/katous/kat65.html"
