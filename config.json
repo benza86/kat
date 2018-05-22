@@ -380,7 +380,16 @@
     "iap":false,
     "tabs":[
 	    
-	  
+	 {
+        "title":"الحلقات  ",
+        "provider":"youtube",
+        "arguments":[
+	"UCGc38JxdgKWcXtfG-6zcdlA",
+
+          "channel"
+
+        ]
+     },  
 
 	 {
         "title":"الحلقة في الأسفل",
