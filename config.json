@@ -566,6 +566,25 @@
   ]
   }
 
+,
+	
+	{
+     "title":"البث المباشر",
+    "drawable":"",
+    "submenu":"نسمة بث مباشر",
+    "iap":false,
+    "tabs":[
+	   {
+        "title":"البث المباشر",
+        "provider":"webview",
+        "arguments":[
+"https://www.nessma.tv/live"
+	]
+      }
+	       
+   
+  ]
+  }
 	
 	,
 
