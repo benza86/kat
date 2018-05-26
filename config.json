@@ -473,6 +473,25 @@
 
         ]
       },   
+	            {
+        "title":"دنيا أخري",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
+          "playlist"
+
+        ]
+      }, 
+	        {
+        "title":"تاج الحاضرة",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epQXmmQvIuZAi4fm3dBzI9C",
+          "playlist"
+
+        ]
+      }, 
+	    
 	 {
         "title":"الحلقات  ",
         "provider":"youtube",
