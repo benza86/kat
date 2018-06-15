@@ -567,6 +567,16 @@
 
         ]
       }
+	     ,
+	        {
+        "title":"1 الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCG9PZ5YsJP4FgzhFpJmqlew",
+          "channel"
+
+        ]
+      } 
 	 ,
 	        {
         "title":"2 الحلقات",
