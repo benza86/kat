@@ -426,6 +426,15 @@
     "submenu":"الحلقات من هنا",
     "iap":false,
     "tabs":[
+	           {
+        "title":" مشاهدة الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCIE7czsz41_QfUSpV2WfykQ",
+          "channel"
+
+        ]
+      },   
 	        {
         "title":" مشاهدة الحلقات",
         "provider":"youtube",
@@ -513,7 +522,96 @@
    
   ]
   }
+,
+	
+	{
+     "title":"الحلقات و الملخصات",
+    "drawable":"",
+    "submenu":"الريح في البريمة",
+    "iap":false,
+    "tabs":[
+	    {
+        "title":" كواليس",
+        "provider":"youtube",
+        "arguments":[
+          "UCWppcJqAUTWp_03PYAMdi_g",
+          "channel"
 
+        ]
+      }
+	    ,
+	        {
+        "title":"الممثلين",
+        "provider":"youtube",
+        "arguments":[
+          "UC2kPpXHR--jAZRCr7hAH0uQ",
+          "channel"
+
+        ]
+      }
+	 ,
+	        {
+        "title":"2 الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCIE7czsz41_QfUSpV2WfykQ",
+          "channel"
+
+        ]
+      } 
+	     
+  ]
+  }
+,
+	,
+	
+	{
+     "title":"الحلقات و الملخصات",
+    "drawable":"",
+    "submenu":"ورثة و سلايف",
+    "iap":false,
+    "tabs":[
+	    {
+        "title":"أبرز الاحداث",
+        "provider":"youtube",
+        "arguments":[
+          "UC7zV5XdtS0r4mqEF71URjyQ",
+          "channel"
+
+        ]
+      }
+	    ,
+	        {
+        "title":"الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCXtA-ZVRCkCkY546xanj2XQ",
+          "channel"
+
+        ]
+      }
+	 ,
+	        {
+        "title":"2 الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCG9PZ5YsJP4FgzhFpJmqlew",
+          "channel"
+
+        ]
+      } 
+	    ,
+    {
+        "title":"3 الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCG9PZ5YsJP4FgzhFpJmqlew",
+          "channel"
+
+        ]
+      }       
+  ]
+  }
 ,
 	
 	{
