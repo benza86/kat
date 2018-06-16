@@ -641,6 +641,22 @@
   ]
   }
 ,
+	{
+    "title":"كأس العالم بث مباشر",
+    "drawable":"",
+    "submenu":"شاهد المباريات مباشرة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
+        ]
+      }
+    ]
+
+  },
 	
 	{
      "title":"البث المباشر",
