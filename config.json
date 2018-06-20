@@ -1,4 +1,108 @@
 [
+				
+	{
+     "title":"الحلقات يوتوب من هنا",
+    "drawable":"",
+    "submenu":"الحلقات من هنا",
+    "iap":false,
+    "tabs":[
+	           {
+        "title":" مشاهدة الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCIE7czsz41_QfUSpV2WfykQ",
+          "channel"
+
+        ]
+      },   
+	        {
+        "title":" مشاهدة الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCXtA-ZVRCkCkY546xanj2XQ",
+          "channel"
+
+        ]
+      },   
+		 {
+        "title":"الحلقات  ",
+        "provider":"youtube",
+        "arguments":[
+	"UCGc38JxdgKWcXtfG-6zcdlA",
+
+          "channel"
+
+        ]
+     },  
+	    
+	
+	            {
+        "title":"دنيا أخري",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
+          "playlist"
+
+        ]
+      }, 
+	        {
+        "title":"تاج الحاضرة",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epQXmmQvIuZAi4fm3dBzI9C",
+          "playlist"
+
+        ]
+      }, 
+	    
+
+	     
+
+
+	      
+       {
+        "title":"ملخص TT",
+        "provider":"youtube",
+        "arguments":[
+          "UC9WtkaCKnMWxfJynp0g9AJw",
+          "channel"
+
+        ]
+      },
+
+	
+	        {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC-rpg9WyN7JC98JwtlQBLmw",
+          "channel"
+
+        ]
+      },
+
+	    {
+        "title":" ملخصات مترجمة",
+        "provider":"youtube",
+        "arguments":[
+          "UCNnqAtgF-wb0zAjUZiQ_wUA",
+          "channel"
+
+        ]
+      },
+	  	  	   {
+        "title":"ملخص الحلقة القادمة : خربوش",
+        "provider":"youtube",
+        "arguments":[
+          "UCv_zCUvMwAjzn7CLxyn1RfA",
+          "channel"
+
+        ]
+      }
+   
+  ]
+  }
+,
 	
 	 {
     "title":"الطريقة الجديدة للمشاهدة",
@@ -472,112 +576,6 @@
 	    
     ]
 
-  }
-		
-  
-,
-	
-	{
-     "title":"الحلقات يوتوب من هنا",
-    "drawable":"",
-    "submenu":"الحلقات من هنا",
-    "iap":false,
-    "tabs":[
-	           {
-        "title":" مشاهدة الحلقات",
-        "provider":"youtube",
-        "arguments":[
-          "UCIE7czsz41_QfUSpV2WfykQ",
-          "channel"
-
-        ]
-      },   
-	        {
-        "title":" مشاهدة الحلقات",
-        "provider":"youtube",
-        "arguments":[
-          "UCXtA-ZVRCkCkY546xanj2XQ",
-          "channel"
-
-        ]
-      },   
-		 {
-        "title":"الحلقات  ",
-        "provider":"youtube",
-        "arguments":[
-	"UCGc38JxdgKWcXtfG-6zcdlA",
-
-          "channel"
-
-        ]
-     },  
-	    
-	
-	            {
-        "title":"دنيا أخري",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
-          "playlist"
-
-        ]
-      }, 
-	        {
-        "title":"تاج الحاضرة",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4epQXmmQvIuZAi4fm3dBzI9C",
-          "playlist"
-
-        ]
-      }, 
-	    
-
-	     
-
-
-	      
-       {
-        "title":"ملخص TT",
-        "provider":"youtube",
-        "arguments":[
-          "UC9WtkaCKnMWxfJynp0g9AJw",
-          "channel"
-
-        ]
-      },
-
-	
-	        {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UC-rpg9WyN7JC98JwtlQBLmw",
-          "channel"
-
-        ]
-      },
-
-	    {
-        "title":" ملخصات مترجمة",
-        "provider":"youtube",
-        "arguments":[
-          "UCNnqAtgF-wb0zAjUZiQ_wUA",
-          "channel"
-
-        ]
-      },
-	  	  	   {
-        "title":"ملخص الحلقة القادمة : خربوش",
-        "provider":"youtube",
-        "arguments":[
-          "UCv_zCUvMwAjzn7CLxyn1RfA",
-          "channel"
-
-        ]
-      }
-   
-  ]
   }
 ,
 	
