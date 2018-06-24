@@ -35,7 +35,15 @@
         ]
      },  
 	    
-	
+	            {
+        "title":"المسلسل التركي حلو و مر",
+        "provider":"youtube",
+        "arguments":[
+          "UC-TRJJ5ARfeMymSOGbbxKXg",
+          "playlist"
+
+        ]
+      }, 
 	            {
         "title":"دنيا أخري",
         "provider":"youtube",
