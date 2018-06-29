@@ -15,15 +15,7 @@
 
         ]
       },   
-	        {
-        "title":" مشاهدة الحلقات",
-        "provider":"youtube",
-        "arguments":[
-          "UCXtA-ZVRCkCkY546xanj2XQ",
-          "channel"
-
-        ]
-      },   
+	 
 		 {
         "title":"الحلقات  ",
         "provider":"youtube",
