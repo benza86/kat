@@ -131,16 +131,8 @@
 
         ]
       }
-	     ,
-	        {
-        "title":"1 الحلقات",
-        "provider":"youtube",
-        "arguments":[
-          "UCG9PZ5YsJP4FgzhFpJmqlew",
-          "channel"
-
-        ]
-      } 
+	    
+	 
 	 ,
 	        {
         "title":"2 الحلقات",
@@ -172,36 +164,8 @@
 
         ]
       }
-	    ,
-	        {
-        "title":"الحلقات",
-        "provider":"youtube",
-        "arguments":[
-          "UCXtA-ZVRCkCkY546xanj2XQ",
-          "channel"
-
-        ]
-      }
-	 ,
-	        {
-        "title":"2 الحلقات",
-        "provider":"youtube",
-        "arguments":[
-          "UCG9PZ5YsJP4FgzhFpJmqlew",
-          "channel"
-
-        ]
-      } 
-	    ,
-    {
-        "title":"3 الحلقات",
-        "provider":"youtube",
-        "arguments":[
-          "UCG9PZ5YsJP4FgzhFpJmqlew",
-          "channel"
-
-        ]
-      }       
+	   
+	   
   ]
   }
 	
