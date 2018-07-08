@@ -27,15 +27,7 @@
         ]
      },  
 	    
-	            {
-        "title":"المسلسل التركي حلو و مر",
-        "provider":"youtube",
-        "arguments":[
-          "UC-TRJJ5ARfeMymSOGbbxKXg",
-          "channel"
-
-        ]
-      }, 
+	      
 	            {
         "title":"دنيا أخري",
         "provider":"youtube",
@@ -152,6 +144,15 @@
         "provider":"youtube",
         "arguments":[
           "UC7zV5XdtS0r4mqEF71URjyQ",
+          "channel"
+
+        ]
+      },
+	        {
+        "title":"الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCIE7czsz41_QfUSpV2WfykQ",
           "channel"
 
         ]
