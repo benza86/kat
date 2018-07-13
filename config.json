@@ -6,6 +6,25 @@
     "submenu":"الحلقات من هنا",
     "iap":false,
     "tabs":[
+	  
+	             {
+        "title":" المسلسل الجديد العقبة لنا",
+        "provider":"youtube",
+        "arguments":[
+          "UCbmkd2Yq1DWtxG36Sa87vtA",
+          "channel"
+
+        ]
+      },   
+	            {
+        "title":" المسلسل الطائر المبكر",
+        "provider":"youtube",
+        "arguments":[
+          "UC48uOgKYE_w6jKCFEvPhAvw",
+          "channel"
+
+        ]
+      },  
 	           {
         "title":" مشاهدة الحلقات",
         "provider":"youtube",
