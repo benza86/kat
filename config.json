@@ -16,8 +16,33 @@
         ]
       },   
 	 
-	    
-	      
+	       {
+        "title":" أمور جدية Best of",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epfpsrO1b0bQKPx7aCaOefT",
+          "playlist"
+
+        ]
+      },     
+	   {
+        "title":" نهار الاحد ميهمك في حد Best of",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epu44Ney9OceataP6TfOuhZ",
+          "playlist"
+
+        ]
+      },    
+	       {
+        "title":"DTEP ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erfE6Dn7iC5Agp89IdCB1J3",
+          "playlist"
+
+        ]
+      },   
 	            {
         "title":"دنيا أخري",
         "provider":"youtube",
@@ -36,10 +61,37 @@
 
         ]
       }, 
-	    
+	        {
+        "title":"شورب",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuLr8HK1JzSUFNaTjlCIz234",
+          "playlist"
 
+        ]
+      }, 
+	        
+        {
+        "title":"7 صبايا",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuI7lJrcvBcvw5Jf_B8XEskS",
+          "playlist"
+
+        ]
+      }, 
 	     
 
+       {
+        "title":"L'Emission",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuKSCc2G5RXLQ5h2h_xQ77Vb",
+          "playlist"
+
+        ]
+      }, 
+	     
 
 	      
 
