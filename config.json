@@ -6,7 +6,24 @@
     "submenu":"الحلقات من هنا",
     "iap":false,
     "tabs":[
-	  
+	               {
+        "title":" المسلسل الجديد  الحب الأول ",
+        "provider":"youtube",
+        "arguments":[
+          "UCmqRMZTJclMqz-q62JKjZiw-",
+          "channel"
+
+        ]
+      },  
+	              {
+        "title":" حب الملائكة المسلسل الجديد",
+        "provider":"youtube",
+        "arguments":[
+       "UCmqRMZTJclMqz-q62JKjZiw-",
+          "channel"
+
+        ]
+      },  
 	             {
         "title":" المسلسل الجديد العقبة لنا",
         "provider":"youtube",
@@ -16,15 +33,7 @@
 
         ]
       },   
-	            {
-        "title":" المسلسل الطائر المبكر",
-        "provider":"youtube",
-        "arguments":[
-          "UC48uOgKYE_w6jKCFEvPhAvw",
-          "channel"
-
-        ]
-      },  
+	
 	           {
         "title":" مشاهدة الحلقات",
         "provider":"youtube",
