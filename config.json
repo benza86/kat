@@ -34,16 +34,7 @@
         ]
       },   
 	
-	           {
-        "title":" مشاهدة الحلقات",
-        "provider":"youtube",
-        "arguments":[
-          "UCIE7czsz41_QfUSpV2WfykQ",
-          "channel"
-
-        ]
-      },   
-	 
+	
 	       {
         "title":" أمور جدية Best of",
         "provider":"youtube",
@@ -175,6 +166,17 @@
 
         ]
       }
+	       ,
+	        {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCNnqAtgF-wb0zAjUZiQ_wUA",
+          "channel"
+
+        ]
+      }
+	    
 	    ,
 	        {
         "title":"الممثلين",
@@ -189,10 +191,10 @@
 	 
 	 ,
 	        {
-        "title":"2 الحلقات",
+        "title":" الحلقات",
         "provider":"youtube",
         "arguments":[
-          "UCIE7czsz41_QfUSpV2WfykQ",
+          "UCGuFP1wtb4fCv4u06ZdsU7Q",
           "channel"
 
         ]
@@ -218,8 +220,19 @@
 
         ]
       },
+	    
+	   
 	        {
         "title":"الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCGuFP1wtb4fCv4u06ZdsU7Q",
+          "channel"
+
+        ]
+      },
+	        {
+        "title":"2 الحلقات",
         "provider":"youtube",
         "arguments":[
           "UCIE7czsz41_QfUSpV2WfykQ",
@@ -289,24 +302,6 @@
 ,
 	
 	
-	
-
-	{
-    "title":"كأس العالم بث مباشر",
-    "drawable":"",
-    "submenu":"شاهد المباريات مباشرة",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
-        ]
-      }
-    ]
-
-  },
 	
 	{
      "title":"البث المباشر",
