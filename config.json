@@ -195,7 +195,22 @@
   }
 ,
 	
-	
+ {
+   "title":"الحلقات من الموقع",
+    "drawable":"",
+    "submenu":"ورثة و سلايف",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.nessma.tv/replay/%D9%88%D8%B1%D8%AB%D8%A9-%D9%88%D8%B3%D9%84%D8%A7%D9%8A%D9%81/"
+        ]
+      }
+    ]
+
+  },	
 	{
      "title":"الحلقات و الملخصات",
     "drawable":"",
