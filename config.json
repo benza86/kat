@@ -140,7 +140,22 @@
   }
 ,
 
-	
+ {
+   "title":"الحلقات من الموقع",
+    "drawable":"",
+    "submenu":"الريح في البريمة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.nessma.tv/replay/%D8%A7%D9%84%D8%B1%D9%8A%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D8%A9/"
+        ]
+      }
+    ]
+
+  },		
 	
 	{
      "title":"الحلقات و الملخصات",
