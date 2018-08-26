@@ -104,6 +104,92 @@
 	}
 	,
 		{
+     "title":" مكتوب",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLvuiC-ftvBUXDX5WO0VYGBZHqYkFExR42",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PL-WZ0q0SEje04IUQJnyrA-lcvFh_O5gZw",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eryEq2U4ZJP_tmoM42e0XG0",
+          "playlist"
+
+        ]
+      }
+	,
+	             {
+        "title":"الموسم الرابع",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eohI7nndcB86uu8WYSdjqEf",
+          "playlist"
+
+        ]
+      }
+	    ]
+	}
+	,
+		{
+     "title":" مسلسلات",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":"شورب",
+        "provider":"youtube",
+        "arguments":[
+          "PLpUf-wIbS_hr1HqUFIpTAudDJLWsxvUFF",
+          "playlist"
+
+        ]
+      },  
+	        
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eryEq2U4ZJP_tmoM42e0XG0",
+          "playlist"
+
+        ]
+      }
+	,
+	             {
+        "title":"الموسم الرابع",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eohI7nndcB86uu8WYSdjqEf",
+          "playlist"
+
+        ]
+      }
+	    ]
+	}
+	,
+		{
      "title":"دنيا اخري",
     "drawable":"",
     "submenu":"سيتكوم تونسية ",
