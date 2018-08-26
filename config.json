@@ -256,6 +256,48 @@
   ]
   }
 ,
+	{
+     "title":"الحلقات  ",
+    "drawable":"",
+    "submenu":" أولاد مفيدة",
+    "iap":false,
+    "tabs":[
+	
+	        {
+        "title":"موسم 1",
+        "provider":"youtube",
+        "arguments":[
+          "PL6TjelGzBJrWK9Avy3doBfhc_VjKToZ1d",
+          "playlist"
+
+        ]
+      }
+	    
+	    ,
+	        {
+        "title":"موسم 2",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGstKc69LrO3xZwdN0LKhYR",
+          "playlist"
+
+        ]
+      }
+	    
+	 
+	 ,
+	        {
+        "title":" موسم 3",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFi-AOO638jza_yYGzef663",
+          "playlist"
+
+        ]
+      } 
+  ]
+  }
+,
  {
    "title":"الحلقات من الموقع",
     "drawable":"",
