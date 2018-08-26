@@ -1,20 +1,11 @@
 [
-				
 	{
-     "title":"الحلقات يوتوب من هنا",
+     "title":"مسلسلات تونسية",
     "drawable":"",
-    "submenu":"الحلقات من هنا",
+    "submenu":"مسلسلات تونسية قديمة",
     "iap":false,
     "tabs":[
-	               {
-        "title":" المسلسل الجديد  الحب الأول ",
-        "provider":"youtube",
-        "arguments":[
-          "UCYA7TeBudluc2lW1XsSW6qw",
-          "channel"
-
-        ]
-      },  
+	            
 	            {
         "title":" صيد الريم ",
         "provider":"youtube",
@@ -68,7 +59,106 @@
           "playlist"
 
         ]
+      }
+	    
+	    ]
+	}
+	,
+	
+		{
+     "title":"أولاد مفيدة",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eouxGWNj5_CTrBrjl6RnIXO",
+          "playlist"
+
+        ]
       },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ermf8wpxfGnxW--TsNGrUJs",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqjxesVEePk4VKSkFKUdnWy",
+          "playlist"
+
+        ]
+      }
+	    
+	    ]
+	}
+	,
+		{
+     "title":"دنيا اخري",
+    "drawable":"",
+    "submenu":"سيتكوم تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ep_N76PBmJ6Pk5OSodDempI",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
+          "playlist"
+
+        ]
+      }
+	    
+	    ]
+	}
+	,
+	
+	
+	{
+     "title":"الحلقات يوتوب من هنا",
+    "drawable":"",
+    "submenu":"الحلقات من هنا",
+    "iap":false,
+    "tabs":[
+	               {
+        "title":" المسلسل الجديد  الحب الأول ",
+        "provider":"youtube",
+        "arguments":[
+          "UCYA7TeBudluc2lW1XsSW6qw",
+          "channel"
+
+        ]
+      },  
+	       
 	    
 	              {
         "title":" حب الملائكة المسلسل الجديد",
