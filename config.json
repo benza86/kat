@@ -6,6 +6,43 @@
     "submenu":"مسلسلات تركية ",
     "iap":false,
     "tabs":[
+	            {
+        "title":" حب أبيض و اسود موسم 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLg-6q1JyoZ_vWkWmfEsWn9m3MMXpnbY7k",
+          "playlist"
+
+        ]
+      },  
+	    	            {
+        "title":" حب أبيض و اسود موسم 2",
+        "provider":"youtube",
+        "arguments":[
+          "PLg-6q1JyoZ_tgYfgGzvY0Dkd9NDw5-CA1",
+          "playlist"
+
+        ]
+      },  
+	    	            {
+        "title":" حب أبيض و اسود موسم 3",
+        "provider":"youtube",
+        "arguments":[
+          "PLg-6q1JyoZ_ui_3NmCU27NbYxiFjPUbSM",
+          "playlist"
+
+        ]
+      },  
+	                {
+        "title":" موقع قصة عشق",
+        "provider":"youtube",
+        "arguments":[
+          "UCqTeJEp9GX-OXwvbr-2HCf",
+          "channel"
+
+        ]
+      },  
+	       
 	               {
         "title":" المسلسل الجديد  الحب الأول ",
         "provider":"youtube",
@@ -18,14 +55,25 @@
 	       
 	    
 	              {
-        "title":" حب الملائكة المسلسل الجديد",
+        "title":" مسلسل تركي قلب المدينة ",
         "provider":"youtube",
         "arguments":[
-       "UCYA7TeBudluc2lW1XsSW6qw",
-          "channel"
+       "PLtOkhQ8cs_FVtP1NE90PB-0drqf1MZEuZ",
+          "playlist"
 
         ]
       },  
+	     
+	              {
+        "title":" حكاية سمر",
+        "provider":"youtube",
+        "arguments":[
+       "PLWZvTEKLCxNp_36OhhNryx4FV6Cc6cgyQ",
+          "playlist"
+
+        ]
+      },  
+	     
 	        
 	      
 
