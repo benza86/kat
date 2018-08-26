@@ -33,6 +33,24 @@
 
         ]
       },  
+	          {
+        "title":"الحجامة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGx3tjBXYx5fWCvUSn0LJ-U",
+          "playlist"
+
+        ]
+      },  
+	             {
+        "title":"جنون القايلة 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnE0j4PKOSpr_Vcf15PbxR5F",
+          "playlist"
+
+        ]
+      },  
 	                  {
         "title":"جنون القايلة 2",
         "provider":"youtube",
@@ -60,6 +78,107 @@
 
         ]
       }
+	    ,  
+	                  {
+        "title":"عودة المنيار",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFo6dzj6dxc9R9yvEq6VAsJ",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"عنقود الغضب",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnH0TCee32EgWBGFNnlLWleX",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"دار الخلاعة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnE4_0T09UwEIS80TMXsif_y",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"غالية",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFoTXOoidCKzEXN7CByKdM8",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"غادة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGaiEETp1XKwtlENPMLzBHM",
+          "playlist"
+
+        ]
+      }
+	     ,  
+	                  {
+        "title":" الليالي البيض",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnG99uEYDpDDWCL0ItuDNge7",
+          "playlist"
+
+        ]
+      }
+	     ,  
+	                  {
+        "title":"سيتكوم : لافاج",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGwG787joljhMda8MNT7c0Q",
+          "playlist"
+
+        ]
+      }
+	     ,  
+	                  {
+        "title":"الدوار ",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnG-2SF2l0EWtTpyraaTlU-B",
+          "playlist"
+
+        ]
+      }
+	      ,  
+	                  {
+        "title":"الدوامة ",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnHnFkLMUdsPPN7JuIGwbeHS",
+          "playlist"
+
+        ]
+      }
+	      ,  
+	                  {
+        "title":"الخطاب على الباب ",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnHHBKZsWsmeYT2u9QAb2CkJ",
+          "playlist"
+
+        ]
+      }
+	    
 	    
 	    ]
 	}
