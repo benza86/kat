@@ -15,6 +15,61 @@
 
         ]
       },  
+	            {
+        "title":" صيد الريم ",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnHpJ0m_dOQjboLQMQ3vwwSu",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"اخوة و زمان",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnHa84B0GLrdJ__EGtq0T7ZH",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"منامة عروسة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGyit87xCTuDAVomofaReQw",
+          "playlist"
+
+        ]
+      },  
+	                  {
+        "title":"جنون القايلة 2",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnEQcgLWgjQWM8AMcgvQlqjO",
+          "playlist"
+
+        ]
+      },  
+	                  {
+        "title":" يوميات امرأة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnExftBXfotv5_HciPJsr_Am",
+          "playlist"
+
+        ]
+      },  
+	                  {
+        "title":"غالية",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFoTXOoidCKzEXN7CByKdM8",
+          "playlist"
+
+        ]
+      },  
+	    
 	              {
         "title":" حب الملائكة المسلسل الجديد",
         "provider":"youtube",
@@ -139,7 +194,68 @@
   ]
   }
 ,
+{
+     "title":"الحلقات  ",
+    "drawable":"",
+    "submenu":"شوفلي حل",
+    "iap":false,
+    "tabs":[
+	
+	        {
+        "title":"موسم 2005",
+        "provider":"youtube",
+        "arguments":[
+          "PL6TjelGzBJrWK9Avy3doBfhc_VjKToZ1d",
+          "playlist"
 
+        ]
+      }
+	    
+	    ,
+	        {
+        "title":"موسم 2006",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGstKc69LrO3xZwdN0LKhYR",
+          "playlist"
+
+        ]
+      }
+	    
+	 
+	 ,
+	        {
+        "title":" موسم 2007",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFi-AOO638jza_yYGzef663",
+          "playlist"
+
+        ]
+      } ,
+	        {
+        "title":" موسم 2008",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnH7XzkWjOUlsDIR45WCZjIH",
+          "playlist"
+
+        ]
+      }
+	       ,
+	    
+		        {
+        "title":" موسم 2009",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFIqdlGYw5_xYpQpiPooQeg",
+          "playlist"
+
+        ]
+      }     
+  ]
+  }
+,
  {
    "title":"الحلقات من الموقع",
     "drawable":"",
