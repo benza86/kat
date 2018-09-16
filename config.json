@@ -6,6 +6,24 @@
     "submenu":"مسلسلات تركية ",
     "iap":false,
     "tabs":[
+	        {
+        "title":" حلقات الطائر المبكر",
+        "provider":"youtube",
+        "arguments":[
+          "UC48uOgKYE_w6jKCFEvPhAvw",
+          "channel"
+
+        ]
+      },  
+	          {
+        "title":" ملخصات الطائر المبكر",
+        "provider":"youtube",
+        "arguments":[
+          "UCZdAk-DlHElz07ICp0dopGg",
+          "channel"
+
+        ]
+      },  
 	            {
         "title":" حب أبيض و اسود موسم 1",
         "provider":"youtube",
