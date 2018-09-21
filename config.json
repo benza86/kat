@@ -1,20 +1,5 @@
 [
-	 {
-   "title":"حمل تطبيق الان",
-    "drawable":"",
-    "submenu":"تطبيق الطائر المبكر ",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.knoozapps.xyz/taeer.html"
-        ]
-      }
-    ]
-
-  },	
+	
 	{
      "title":"مسلسلات تركية ",
     "drawable":"",
@@ -153,6 +138,22 @@
   ]
   }
 ,
+	 {
+   "title":"حمل تطبيق الان",
+    "drawable":"",
+    "submenu":"تطبيق الطائر المبكر ",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.knoozapps.xyz/taeer.html"
+        ]
+      }
+    ]
+
+  },	
 	{
      "title":"مسلسلات تونسية",
     "drawable":"",
