@@ -15,6 +15,15 @@
 
         ]
       },  
+	         {
+        "title":"مسلسلات تركية حصرية",
+        "provider":"youtube",
+        "arguments":[
+          "UC5AFDvcGk83DcMGwPlRrscA",
+          "channel"
+
+        ]
+      },  
 	    
 	        {
         "title":" حلقات الطائر المبكر",
