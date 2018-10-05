@@ -7,7 +7,7 @@
     "iap":false,
     "tabs":[
   {
-        "title":" حلقات من 1 الي 12",
+        "title":" حلقات من 1 الي 13",
         "provider":"youtube",
         "arguments":[
           "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
@@ -20,6 +20,15 @@
         "provider":"youtube",
         "arguments":[
           "UC5AFDvcGk83DcMGwPlRrscA",
+          "channel"
+
+        ]
+      },  
+	        {
+        "title":" الحب الي كواني",
+        "provider":"youtube",
+        "arguments":[
+          "UC799uvzW88ngFajprZg4iLg",
           "channel"
 
         ]
