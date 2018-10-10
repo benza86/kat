@@ -7,7 +7,7 @@
     "iap":false,
     "tabs":[
   {
-        "title":" حلقات من 1 الي 13",
+        "title":" حلقات من 1 الي 14",
         "provider":"youtube",
         "arguments":[
           "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
@@ -15,15 +15,7 @@
 
         ]
       },  
-	         {
-        "title":"مسلسلات تركية حصرية",
-        "provider":"youtube",
-        "arguments":[
-          "UC5AFDvcGk83DcMGwPlRrscA",
-          "channel"
-
-        ]
-      },  
+	        
 	        {
         "title":" الحب الي كواني",
         "provider":"youtube",
