@@ -26,15 +26,16 @@
         ]
       },  
 	    
-	        {
-        "title":" حلقات الطائر المبكر",
+	          {
+        "title":"مسلسلات تركية حصرية",
         "provider":"youtube",
         "arguments":[
-          "UC48uOgKYE_w6jKCFEvPhAvw",
+          "UC-DHwxp-VdKODqvNK2KMtCg",
           "channel"
 
         ]
       },  
+	
 	          {
         "title":" ملخصات الطائر المبكر",
         "provider":"youtube",
@@ -44,6 +45,35 @@
 
         ]
       },  
+	       {
+        "title":"مسلسلات تركية",
+        "provider":"youtube",
+        "arguments":[
+          "UCaB-qCSg9sdwT3np0fg0xiA",
+          "channel"
+
+        ]
+      },  
+	           {
+        "title":"مسلسلات اعلانات",
+        "provider":"youtube",
+        "arguments":[
+          "UCjtxwNQKJxTImvgqatLT2EA",
+          "channel"
+
+        ]
+      },  
+	
+	        {
+        "title":"الحلقات باللغة التركية",
+        "provider":"youtube",
+        "arguments":[
+          "UC64mzacdticc87zH870bQGA",
+          "channel"
+
+        ]
+      },  
+	     
 	           {
         "title":" مسلسل - نصيبي وقسمتك الجزء الثاني",
         "provider":"youtube",
