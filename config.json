@@ -6,8 +6,17 @@
     "submenu":"مسلسلات تركية ",
     "iap":false,
     "tabs":[
+	           {
+        "title":"مسلسلات تركية",
+        "provider":"youtube",
+        "arguments":[
+          "UCaB-qCSg9sdwT3np0fg0xiA",
+          "channel"
+
+        ]
+      },  
   {
-        "title":" حلقات من 1 الي 14",
+        "title":" حلقات من 1 الي 15",
         "provider":"youtube",
         "arguments":[
           "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
