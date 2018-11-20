@@ -11,26 +11,44 @@
         "title":"مسلسلات تركية ",
         "provider":"youtube",
         "arguments":[
-          "UC2oMua1mDkcOy5yHJu5LddA",
+          "UCd2fyPwXSIUN6pZxQTo3cvA",
           "channel"
 
         ]
       },  
   {
-        "title":" حلقات من 1 الي 16",
+        "title":" مسلسلات",
         "provider":"youtube",
         "arguments":[
-          "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
-          "playlist"
+          "UCWN3P-jinQvAD0WbPPd8TKg",
+          "channel"
 
         ]
       },  
+	     {
+        "title":"2 مسلسلات",
+        "provider":"youtube",
+        "arguments":[
+          "UCj_1Cf99CPbDc8GYLltoDag",
+          "channel"
+
+        ]
+      },  
+	        {
+        "title":"3 مسلسلات",
+        "provider":"youtube",
+        "arguments":[
+          "UC2MpgySHSZzpItGQiNbPU2g",
+          "channel"
+
+        ]
+      },    
 	        
 	        {
         "title":" الحب الي كواني",
         "provider":"youtube",
         "arguments":[
-          "UC799uvzW88ngFajprZg4iLg",
+          "UCv_zCUvMwAjzn7CLxyn1RfA",
           "channel"
 
         ]
@@ -164,15 +182,6 @@
         "provider":"youtube",
         "arguments":[
           "UCNnqAtgF-wb0zAjUZiQ_wUA",
-          "channel"
-
-        ]
-      },
-	  	  	   {
-        "title":"ملخص الحلقة القادمة : خربوش",
-        "provider":"youtube",
-        "arguments":[
-          "UCv_zCUvMwAjzn7CLxyn1RfA",
           "channel"
 
         ]
